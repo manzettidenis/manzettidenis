@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on DeepGarden.ai.
+- 🌱 I’m currently learning computer vision using YOLO.
+- 👯 I’m looking to collaborate on deep learning projects.
+- 📫 How to reach me: denis@deepgarden.ai / https://linkedin.com/in/manzettidenis
+- ⚡ Fun fact: I'm passionate about plants.
 <!--
 **manzettidenis/manzettidenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
