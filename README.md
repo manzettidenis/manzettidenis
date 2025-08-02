@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on DeepGarden.ai.
-- 🌱 I’m currently learning computer vision using YOLO.
-- 👯 I’m looking to collaborate on deep learning projects.
+- 🔭 I’m co-founder and currently working on DeepGarden.ai, mainly with Typescript, Nodejs and Solidjs.
+- 🌱 I have been playing with computer vision, Rust and Python.
 - 📫 How to reach me: denis@deepgarden.ai / https://linkedin.com/in/manzettidenis
 - ⚡ Fun fact: I'm passionate about plants.
 <!--
