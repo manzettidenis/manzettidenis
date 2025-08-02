@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m co-founder and currently working on DeepGarden.ai, mainly with Typescript, Nodejs and Solidjs.
+- 🔭 I’m co-founder and currently working on DeepGarden.ai, mainly with ESP32, Typescript, Nodejs, MQTT, RabbitMQ, Solidjs and Flutter.
 - 🌱 I have been playing with computer vision, Rust and Python.
 - 📫 How to reach me: denis@deepgarden.ai / https://linkedin.com/in/manzettidenis
 - ⚡ Fun fact: I'm passionate about plants.
